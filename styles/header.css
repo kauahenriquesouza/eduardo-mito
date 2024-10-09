@@ -8,7 +8,7 @@
 }
 
 .cabeçalho {
-    background-color: var(--branco);
+    background-color: pink;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -42,12 +42,12 @@
 }
 
 .lista-menu__titulo {
-    color: var(--laranja);
+    color: black;
     font-weight: 700;
 }
 
 .lista-menu__link {
-    background: var(--azul-degrade);
+    background: purple;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
